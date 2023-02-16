@@ -25,7 +25,8 @@ Like lot one, lot two is has significance level of 0.6072 and is not sufficient 
 
 Lot three has a p-value of 0.04168. This significance level is below 0.05 and is enough evidence to reject the null hypothesis. The PSI for lot 3 is not 500 pounds per square inch.
 
-## Study Design
+## Study Design: MechaCar vs Competition
+As the world's oil reserves are slowly diminshing in output, MechaCar consumers are interested in purchasing cars that have greater highway fuel efficiency. If MechaCar wants to maintain its competitive edge as a car manufacturer, the company must produce cars that meet or outperform the fuel efficiency of other brands. 
 
-
+In order to ensure that MechaCar is meeting these stringent standards, the company has designed an internal study of the higheway fuel efficiency of all of its products. The null hypothesis is that there is no significant difference between the average highway fuel efficiency of a MechaCar versus the average efficiency of another manufacturer. The alternative hypothesis is that there is a significant difference. In order to do the test, MechaCar will implement a one sample t-test to see if the mean from the sample of MechaCar data is statistically different from the mean fuel efficiency of the other cars on the market. The data that MechaCar will use to perform this test is the miles per gallon (mpg) measurements that it has collected for three manufacturing lots of vehicles. This sample data will be compared to the mpg data of the population of other vehicles on the market.
 
